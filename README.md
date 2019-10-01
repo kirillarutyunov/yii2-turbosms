@@ -16,7 +16,7 @@ php composer.phar require --prefer-dist avator/yii2-turbosms "*"
 or add
 
 ```
-"avator/yii2-turbosms": "*"
+"kirillarutyunov/yii2-turbosms": "*"
 ```
 
 to the require section of your `composer.json` file.
